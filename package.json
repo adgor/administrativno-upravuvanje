@@ -1,0 +1,19 @@
+{
+  "name": "administrativno-upravuvanje",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.1",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "postcss dist/css/styles.css -o app.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
